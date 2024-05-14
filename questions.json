@@ -1,0 +1,12 @@
+[
+    {"question": "Who wrote 'Principia Mathematica'?", "options": ["Albert Einstein", "Isaac Newton", "Carl Gauss", "Leonhard Euler"], "answer": "Isaac Newton", "value": 100},
+    {"question": "Which mathematician is known for the incompleteness theorem?", "options": ["Kurt Gödel", "Paul Erdős", "David Hilbert", "Alan Turing"], "answer": "Kurt Gödel", "value": 200},
+    {"question": "What does the Greek letter Pi (π) represent?", "options": ["Euler's Number", "Golden Ratio", "The circle's circumference to its diameter", "Prime Numbers"], "answer": "The circle's circumference to its diameter", "value": 300},
+    {"question": "What is the square root of 256?", "options": ["12", "14", "16", "18"], "answer": "16", "value": 400},
+    {"question": "What is a polygon with five sides called?", "options": ["Hexagon", "Decagon", "Pentagon", "Quadrilateral"], "answer": "Pentagon", "value": 500},
+    {"question": "Which branch of mathematics deals with the properties of points, lines, and planes?", "options": ["Algebra", "Calculus", "Geometry", "Trigonometry"], "answer": "Geometry", "value": 600},
+    {"question": "Which famous problem was solved by Andrew Wiles in 1994?", "options": ["Fermat's Last Theorem", "Four Color Theorem", "Poincaré Conjecture", "Hilbert's Problems"], "answer": "Fermat's Last Theorem", "value": 800},
+    {"question": "What mathematical discipline studies the rates of change?", "options": ["Geometry", "Algebra", "Calculus", "Number Theory"], "answer": "Calculus", "value": 1000},
+    {"question": "Which theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides?", "options": ["Pythagorean Theorem", "Binomial Theorem", "Bayes' Theorem", "Fundamental Theorem of Algebra"], "answer": "Pythagorean Theorem", "value": 1200},
+    {"question": "Who developed the theory of relativity?", "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Marie Curie"], "answer": "Albert Einstein", "value": 1400}
+]
